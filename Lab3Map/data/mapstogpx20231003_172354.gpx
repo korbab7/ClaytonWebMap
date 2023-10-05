@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2023 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2023</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/Noe's bakery, East 2nd Street, Clayton, NC/Flowers By The Neuse, East Main Street, Clayton, NC/Hocutt-Ellington Library, South Church Street, Clayton, NC/Boulevard West, West Main Street, Clayton, NC/@35.6515282,-78.4609266,16.51z/data=!4m26!4m25!1m5!1m1!1s0x89ac6893cf313a81:0x50488b7d1e265f64!2m2!1d-78.4570245!2d35.6492951!1m5!1m1!1s0x89ac68923ae90b95:0x322cce97fd8797f8!2m2!1d-78.4570791!2d35.6507916!1m5!1m1!1s0x89ac6891e8649ceb:0xd0d881076d111624!2m2!1d-78.4592996!2d35.6522423!1m5!1m1!1s0x89ac688e3b699da1:0x7a50dff1eb15d602!2m2!1d-78.4601523!2d35.6535191!3e2?entry=ttu&hl=en</url-->
+    <time>2023-10-03T13:23:56Z</time>
+  </metadata>
+  <wpt lat="35.6492951" lon="-78.4570245">
+    <name>Noe&apos;s bakery</name>
+    <desc>Noe&apos;s bakery, 417 E 2nd St, Clayton, NC 27520, United States</desc>
+  </wpt>
+  <wpt lat="35.6507916" lon="-78.4570791">
+    <name>Flowers By The Neuse</name>
+    <desc>Flowers By The Neuse, 321 E Main St, Clayton, NC 27520, United States</desc>
+  </wpt>
+  <wpt lat="35.6522423" lon="-78.4592996">
+    <name>Hocutt-Ellington Library</name>
+    <desc>Hocutt-Ellington Library, 100 S Church St, Clayton, NC 27520, United States</desc>
+  </wpt>
+  <wpt lat="35.6535191" lon="-78.4601523">
+    <name>Boulevard West</name>
+    <desc>Boulevard West, 104 W Main St, Clayton, NC 27520, United States</desc>
+  </wpt>
+<trk>
+  <name>Noe&apos;s bakery to Boulevard West</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="35.6492576" lon="-78.4569607">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="35.64931" lon="-78.45689">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="35.6493136" lon="-78.4568882">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="35.64943" lon="-78.45704">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="35.64946" lon="-78.45705">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="35.64948" lon="-78.45705">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="35.6495" lon="-78.45704">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="35.64952" lon="-78.45702">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="35.64956" lon="-78.45698">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="35.64961" lon="-78.45692">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="35.64964" lon="-78.45691">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="35.64966" lon="-78.4569">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="35.6497" lon="-78.45692">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="35.64974" lon="-78.45697">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="35.64978" lon="-78.45699">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="35.6498" lon="-78.45698">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="35.64983" lon="-78.45693">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="35.649827" lon="-78.4569339">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="35.65001" lon="-78.45716">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="35.6500124" lon="-78.4571632">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="35.65049" lon="-78.45659">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="35.6504908" lon="-78.4565913">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="35.65054" lon="-78.45665">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="35.65084" lon="-78.45702">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="35.6508383" lon="-78.457022">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="35.6508383" lon="-78.457022">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="35.65098" lon="-78.4572">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="35.65142" lon="-78.45776">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="35.6519" lon="-78.45835">
+    <name>TP029</name>
+  </trkpt>
+  <trkpt lat="35.65227" lon="-78.4588">
+    <name>TP030</name>
+  </trkpt>
+  <trkpt lat="35.6522689" lon="-78.4588038">
+    <name>TP031</name>
+  </trkpt>
+  <trkpt lat="35.65206" lon="-78.45909">
+    <name>TP032</name>
+  </trkpt>
+  <trkpt lat="35.6520568" lon="-78.4590949">
+    <name>TP033</name>
+  </trkpt>
+  <trkpt lat="35.6520568" lon="-78.4590949">
+    <name>TP034</name>
+  </trkpt>
+  <trkpt lat="35.65227" lon="-78.4588">
+    <name>TP035</name>
+  </trkpt>
+  <trkpt lat="35.65232" lon="-78.45874">
+    <name>TP036</name>
+  </trkpt>
+  <trkpt lat="35.6523185" lon="-78.4587397">
+    <name>TP037</name>
+  </trkpt>
+  <trkpt lat="35.65324" lon="-78.45989">
+    <name>TP038</name>
+  </trkpt>
+  <trkpt lat="35.65349" lon="-78.46019">
+    <name>TP039</name>
+  </trkpt>
+  <trkpt lat="35.6534856" lon="-78.4601935">
+    <name>TP040</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
